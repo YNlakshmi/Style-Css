@@ -1,0 +1,27 @@
+.container
+{
+    display: flex;
+    width: 50%;
+    /* height: 450px; */
+    padding: 25px;
+    margin: 100px;
+    margin-left: 25%;
+    border: 2px solid black;
+    /* vertical-align: top; */
+    
+}
+.item
+{
+    /* flex: 1;
+    display: flex;
+    flex-direction: column; */
+    display: inline-block;
+    width: 180px;
+    padding: 5px;
+    /* height: 250px ; */
+    border: 2px solid black;
+    /* object-fit: cover; */
+}
+img{
+    width: 100%;
+}

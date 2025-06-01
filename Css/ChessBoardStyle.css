@@ -1,0 +1,29 @@
+.container{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+.row{
+    display: flex;
+}
+.box{
+    height: 100px;
+    width: 100px;
+    background-color: black;
+    border: 2px solid black;
+    font-size: 65px;
+    /* padding-left: 15px; */
+    color: aliceblue;
+    transition: all 0.3s ease;
+}
+.container>.row1>.box.box:nth-child(odd){
+    background-color: white;
+    color: black;
+}
+.container>.row2>.box:nth-child(even){
+    background-color: white;
+    color: black;
+}
+.rowfirst>.box:hover{
+    font-size: 85px;
+}
