@@ -1,0 +1,42 @@
+#head{
+    background-color: antiquewhite;
+}
+.class1{
+    display: inline-block;
+    padding-left: 80px;
+    background-color: rgb(244, 243, 243);
+    background-attachment: fixed;
+}
+.class2{
+    display: inline-block;
+    padding-left: 900px;
+    background-color: rgb(247, 245, 245);
+}
+.item{    
+    background-color: antiquewhite;
+}
+.gap{
+    margin-left: 22px;
+}
+.c8{
+    display: inline-block;
+    margin-left: 900px;
+}
+.gap1{
+    display: inline-block;
+    margin-left: 470px;
+}
+.gap2{
+    margin-left: 1000px;
+    display: inline-block;
+}
+.align{
+    display: inline-block;
+    margin: 20px;
+}
+.sign{
+    margin-left: 1100px;
+    display: inline-block;
+}
+
+
